@@ -1,259 +1,259 @@
-{"url": ["Nassau Veterans Memorial Coliseum"], "name": ["WrestleMania 2"], "description": []}
-{"url": ["The Dream Team", "Greg Valentine", "Brutus Beefcake", "The British Bulldogs", "Davey Boy Smith", "Dynamite Kid"], "name": ["Rosemont, IL"], "description": []}
-{"url": ["King Kong Bundy"], "name": ["Los Angeles, CA"], "description": []}
-{"url": ["The Summit"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Atlantic City Convention Hall"], "name": ["WrestleMania V"], "description": []}
-{"url": ["Nashville Municipal Auditorium"], "name": ["No Holds Barred:", "\nThe Match/The Movie"], "description": []}
-{"url": ["Orlando Arena"], "name": ["Royal Rumble"], "description": []}
-{"url": ["SkyDome"], "name": ["WrestleMania VI"], "description": []}
-{"url": ["Spectrum"], "name": ["SummerSlam"], "description": []}
-{"url": ["Miami Arena"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Joe Louis Arena"], "name": ["Survivor Series"], "description": []}
-{"url": ["Freeman Coliseum"], "name": ["This Tuesday in Texas"], "description": []}
-{"url": ["Knickerbocker Arena"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Richfield Coliseum"], "name": ["Survivor Series"], "description": []}
-{"url": ["ARCO Arena"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Nutter Center"], "name": ["King of the Ring"], "description": []}
-{"url": ["Providence Civic Center"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Madison Square Garden"], "name": ["WrestleMania X"], "description": []}
-{"url": ["Freeman Coliseum"], "name": ["Survivor Series"], "description": []}
-{"url": ["USF Sun Dome"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Nashville Municipal Auditorium"], "name": ["In Your House 2"], "description": []}
-{"url": ["Winnipeg Arena"], "name": ["In Your House 4"], "description": []}
-{"url": ["USAir Arena"], "name": ["Survivor Series"], "description": []}
-{"url": ["Hersheypark Arena"], "name": ["In Your House 5"], "description": []}
-{"url": ["Selland Arena"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Louisville Gardens"], "name": ["In Your House 6"], "description": []}
-{"url": ["Arrowhead Pond"], "name": ["WrestleMania XII"], "description": []}
-{"url": ["Omaha Civic Auditorium"], "name": ["In Your House 7: Good Friends, Better Enemies"], "description": []}
-{"url": ["Florence Civic Center"], "name": ["In Your House 8: Beware of Dog"], "description": []}
-{"url": ["North Charleston, SC"], "name": ["North Charleston Coliseum"], "description": []}
-{"url": ["MECCA Arena"], "name": ["King of the Ring"], "description": []}
-{"url": ["Gund Arena"], "name": ["SummerSlam"], "description": []}
-{"url": ["Market Square Arena"], "name": ["In Your House 11: Buried Alive"], "description": []}
-{"url": ["Madison Square Garden"], "name": ["Survivor Series"], "description": []}
-{"url": ["West Palm Beach Auditorium"], "name": ["In Your House 12: It's Time"], "description": []}
-{"url": ["Alamodome"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Rosemont Horizon"], "name": ["WrestleMania 13"], "description": []}
-{"url": ["Blue Cross Arena"], "name": ["In Your House 14: Revenge of the 'Taker"], "description": []}
-{"url": ["Richmond Coliseum"], "name": ["In Your House 15: A Cold Day in Hell"], "description": []}
-{"url": ["Continental Airlines Arena"], "name": ["SummerSlam"], "description": []}
-{"url": ["Louisville Gardens"], "name": ["Ground Zero: In Your House"], "description": []}
-{"url": ["NEC Arena"], "name": ["One Night Only"], "description": []}
-{"url": ["Kiel Center"], "name": ["Badd Blood: In Your House"], "description": []}
-{"url": ["Springfield Civic Center"], "name": ["D-Generation X: In Your House"], "description": []}
-{"url": ["San Jose Arena"], "name": ["Royal Rumble"], "description": []}
-{"url": ["FleetCenter"], "name": ["WrestleMania XIV"], "description": []}
-{"url": ["Wisconsin Center Arena"], "name": ["Over the Edge: In Your House"], "description": []}
-{"url": ["Selland Arena"], "name": ["Fully Loaded: In Your House"], "description": []}
-{"url": ["Madison Square Garden"], "name": ["SummerSlam"], "description": []}
-{"url": ["Copps Coliseum"], "name": ["Breakdown: In Your House"], "description": []}
-{"url": ["Rosemont Horizon"], "name": ["Judgment Day: In Your House"], "description": []}
-{"url": ["London Arena"], "name": ["Capital Carnage"], "description": []}
-{"url": ["General Motors Place"], "name": ["Rock Bottom: In Your House"], "description": []}
-{"url": ["Arrowhead Pond"], "name": ["Royal Rumble"], "description": []}
-{"url": ["First Union Center"], "name": ["WrestleMania XV"], "description": []}
-{"url": ["Providence Civic Center"], "name": ["Backlash: In Your House"], "description": []}
-{"url": ["Manchester Evening News Arena"], "name": ["No Mercy"], "description": []}
-{"url": ["Kemper Arena"], "name": ["Over the Edge"], "description": []}
-{"url": ["Marine Midland Arena"], "name": ["Fully Loaded"], "description": []}
-{"url": ["Target Center"], "name": ["SummerSlam"], "description": []}
-{"url": ["National Indoor Arena"], "name": ["Rebellion"], "description": []}
-{"url": ["Gund Arena"], "name": ["No Mercy"], "description": []}
-{"url": ["Joe Louis Arena"], "name": ["Survivor Series"], "description": []}
-{"url": ["National Car Rental Center"], "name": ["Armageddon"], "description": []}
-{"url": ["Madison Square Garden"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Hartford Civic Center"], "name": ["No Way Out"], "description": []}
-{"url": ["MCI Center"], "name": ["Backlash"], "description": []}
-{"url": ["Earls Court"], "name": ["Insurrextion"], "description": []}
-{"url": ["Freedom Hall"], "name": ["Judgment Day"], "description": []}
-{"url": ["First Union Center"], "name": ["Unforgiven"], "description": []}
-{"url": ["Pepsi Arena"], "name": ["No Mercy"], "description": []}
-{"url": ["Ice Palace"], "name": ["Survivor Series"], "description": []}
-{"url": ["Birmingham\u2013Jefferson Civic Center"], "name": ["Armageddon"], "description": []}
-{"url": ["New Orleans Arena"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Thomas & Mack Center"], "name": ["No Way Out"], "description": []}
-{"url": ["Reliant Astrodome"], "name": ["WrestleMania X-Seven"], "description": []}
-{"url": ["Earls Court"], "name": ["Insurrextion"], "description": []}
-{"url": ["ARCO Arena"], "name": ["Judgment Day"], "description": []}
-{"url": ["Compaq Center"], "name": ["SummerSlam"], "description": []}
-{"url": ["Mellon Arena"], "name": ["Unforgiven"], "description": []}
-{"url": ["Manchester Arena"], "name": ["Rebellion"], "description": []}
-{"url": ["Greensboro Coliseum"], "name": ["Survivor Series"], "description": []}
-{"url": ["San Diego Sports Arena"], "name": ["Vengeance"], "description": []}
-{"url": ["Philips Arena"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Bradley Center"], "name": ["No Way Out"], "description": []}
-{"url": ["SkyDome"], "name": ["WrestleMania X8"], "description": []}
-{"url": ["Kemper Arena"], "name": ["Backlash"], "description": []}
-{"url": ["Wembley Arena"], "name": ["Insurrextion"], "description": []}
-{"url": ["Gaylord Entertainment Center"], "name": ["Judgment Day"], "description": []}
-{"url": ["Nationwide Arena"], "name": ["King of the Ring"], "description": []}
-{"url": ["Joe Louis Arena"], "name": ["Vengeance"], "description": []}
-{"url": ["Nassau Veterans Memorial Coliseum"], "name": ["SummerSlam"], "description": []}
-{"url": ["Staples Center"], "name": ["Unforgiven"], "description": []}
-{"url": ["Alltel Arena"], "name": ["No Mercy"], "description": []}
-{"url": ["Madison Square Garden"], "name": ["Survivor Series"], "description": []}
-{"url": ["Office Depot Center"], "name": ["Armageddon"], "description": []}
-{"url": ["Fleet Center"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Bell Centre"], "name": ["No Way Out"], "description": []}
-{"url": ["Safeco Field"], "name": ["WrestleMania XIX"], "description": []}
-{"url": ["Charlotte Coliseum"], "name": ["Judgment Day"], "description": []}
-{"url": ["Compaq Center"], "name": ["Bad Blood"], "description": []}
-{"url": ["Pepsi Center"], "name": ["Vengeance"], "description": []}
-{"url": ["Giant Center"], "name": ["Unforgiven"], "description": []}
-{"url": ["1st Mariner Arena"], "name": ["No Mercy"], "description": []}
-{"url": ["American Airlines Center"], "name": ["Survivor Series"], "description": []}
-{"url": ["TD Waterhouse Center"], "name": ["Armageddon"], "description": []}
-{"url": ["Wachovia Center"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Madison Square Garden"], "name": ["WrestleMania XX"], "description": []}
-{"url": ["Rexall Place"], "name": ["Backlash"], "description": []}
-{"url": ["Nationwide Arena"], "name": ["Bad Blood"], "description": []}
-{"url": ["Norfolk Scope"], "name": ["The Great American Bash"], "description": []}
-{"url": ["Hartford Civic Center"], "name": ["Vengeance"], "description": []}
-{"url": ["Air Canada Centre"], "name": ["SummerSlam"], "description": []}
-{"url": ["Rose Garden"], "name": ["Unforgiven"], "description": []}
-{"url": ["Continental Airlines Arena"], "name": ["No Mercy"], "description": []}
-{"url": ["Bradley Center"], "name": ["Taboo Tuesday"], "description": []}
-{"url": ["Gwinnett Arena"], "name": ["Armageddon"], "description": []}
-{"url": ["Coliseo de Puerto Rico"], "name": ["New Year's Revolution"], "description": []}
-{"url": ["Save Mart Center"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Mellon Arena"], "name": ["No Way Out"], "description": []}
-{"url": ["Staples Center"], "name": ["WrestleMania 21"], "description": []}
-{"url": ["Verizon Wireless Arena"], "name": ["Backlash"], "description": []}
-{"url": ["Thomas & Mack Center"], "name": ["Vengeance"], "description": []}
-{"url": ["HSBC Arena"], "name": ["The Great American Bash"], "description": []}
-{"url": ["MCI Center"], "name": ["SummerSlam"], "description": []}
-{"url": ["Ford Center"], "name": ["Unforgiven"], "description": []}
-{"url": ["Toyota Center"], "name": ["No Mercy"], "description": []}
-{"url": ["iPayOne Center"], "name": ["Taboo Tuesday"], "description": []}
-{"url": ["Dunkin' Donuts Center"], "name": ["Armageddon"], "description": []}
-{"url": ["Pepsi Arena"], "name": ["New Year's Revolution"], "description": []}
-{"url": ["1st Mariner Arena"], "name": ["No Way Out"], "description": []}
-{"url": ["Allstate Arena"], "name": ["WrestleMania 22"], "description": []}
-{"url": ["Rupp Arena"], "name": ["Backlash"], "description": []}
-{"url": ["Hammerstein Ballroom"], "name": ["One Night Stand"], "description": []}
-{"url": ["Conseco Fieldhouse"], "name": ["The Great American Bash"], "description": []}
-{"url": ["TD Banknorth Garden"], "name": ["SummerSlam"], "description": []}
-{"url": ["Air Canada Centre"], "name": ["Unforgiven"], "description": []}
-{"url": ["U.S. Bank Arena"], "name": ["Cyber Sunday"], "description": []}
-{"url": ["Wachovia Center"], "name": ["Survivor Series"], "description": []}
-{"url": ["Richmond Coliseum"], "name": ["Armageddon"], "description": []}
-{"url": ["AT&T Center"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Staples Center"], "name": ["No Way Out"], "description": []}
-{"url": ["Ford Field"], "name": ["WrestleMania 23"], "description": []}
-{"url": ["Philips Arena"], "name": ["Backlash"], "description": []}
-{"url": ["Jacksonville Veterans Memorial Arena"], "name": ["One Night Stand"], "description": []}
-{"url": ["Toyota Center"], "name": ["Vengeance: Night of Champions"], "description": []}
-{"url": ["HP Pavilion"], "name": ["The Great American Bash"], "description": []}
-{"url": ["Continental Airlines Arena"], "name": ["SummerSlam"], "description": []}
-{"url": ["FedExForum"], "name": ["Unforgiven"], "description": []}
-{"url": ["Allstate Arena"], "name": ["No Mercy"], "description": []}
-{"url": ["Verizon Center"], "name": ["Cyber Sunday"], "description": []}
-{"url": ["American Airlines Arena"], "name": ["Survivor Series"], "description": []}
-{"url": ["Mellon Arena"], "name": ["Armageddon"], "description": []}
-{"url": ["Madison Square Garden"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Florida Citrus Bowl Stadium"], "name": ["WrestleMania XXIV"], "description": []}
-{"url": ["1st Mariner Arena"], "name": ["Backlash"], "description": []}
-{"url": ["Qwest Center Omaha"], "name": ["Judgment Day"], "description": []}
-{"url": ["San Diego Sports Arena"], "name": ["One Night Stand"], "description": []}
-{"url": ["American Airlines Center"], "name": ["Night of Champions"], "description": []}
-{"url": ["Nassau Veterans Memorial Coliseum"], "name": ["The Great American Bash"], "description": []}
-{"url": ["Conseco Fieldhouse"], "name": ["SummerSlam"], "description": []}
-{"url": ["Quicken Loans Arena"], "name": ["Unforgiven"], "description": []}
-{"url": ["Rose Garden"], "name": ["No Mercy"], "description": []}
-{"url": ["US Airways Center"], "name": ["Cyber Sunday"], "description": []}
-{"url": ["TD Banknorth Garden"], "name": ["Survivor Series"], "description": []}
-{"url": ["HSBC Arena"], "name": ["Armageddon"], "description": []}
-{"url": ["Joe Louis Arena"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Reliant Stadium"], "name": ["WrestleMania XXV"], "description": []}
-{"url": ["Dunkin' Donuts Center"], "name": ["Backlash"], "description": []}
-{"url": ["Allstate Arena"], "name": ["Judgment Day"], "description": []}
-{"url": ["New Orleans Arena"], "name": ["Extreme Rules"], "description": []}
-{"url": ["ARCO Arena"], "name": ["The Bash"], "description": []}
-{"url": ["Wachovia Center"], "name": ["Night of Champions"], "description": []}
-{"url": ["Staples Center"], "name": ["SummerSlam"], "description": []}
-{"url": ["Bell Centre"], "name": ["Breaking Point"], "description": []}
-{"url": ["Mellon Arena"], "name": ["Bragging Rights"], "description": []}
-{"url": ["Verizon Center"], "name": ["Survivor Series"], "description": []}
-{"url": ["Philips Arena"], "name": ["Royal Rumble"], "description": []}
-{"url": ["University of Phoenix Stadium"], "name": ["WrestleMania XXVI"], "description": []}
-{"url": ["Joe Louis Arena"], "name": ["Over the Limit"], "description": []}
-{"url": ["Nassau Veterans Memorial Coliseum"], "name": ["Fatal 4-Way"], "description": []}
-{"url": ["Sprint Center"], "name": ["Money in the Bank"], "description": []}
-{"url": ["Allstate Arena"], "name": ["Night of Champions"], "description": []}
-{"url": ["American Airlines Center"], "name": ["Hell in a Cell"], "description": []}
-{"url": ["Target Center"], "name": ["Bragging Rights"], "description": []}
-{"url": ["American Airlines Arena"], "name": ["Survivor Series"], "description": []}
-{"url": ["Toyota Center"], "name": ["TLC: Tables, Ladders and Chairs"], "description": []}
-{"url": ["TD Garden"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Oracle Arena"], "name": ["Elimination Chamber"], "description": []}
-{"url": ["St. Pete Times Forum"], "name": ["Extreme Rules"], "description": []}
-{"url": ["KeyArena"], "name": ["Over the Limit"], "description": []}
-{"url": ["Verizon Center"], "name": ["Capitol Punishment"], "description": []}
-{"url": ["Allstate Arena"], "name": ["Money in the Bank"], "description": []}
-{"url": ["First Niagara Center"], "name": ["Night of Champions"], "description": []}
-{"url": ["New Orleans Arena"], "name": ["Hell in a Cell"], "description": []}
-{"url": ["AT&T Center"], "name": ["Vengeance"], "description": []}
-{"url": ["Madison Square Garden"], "name": ["Survivor Series"], "description": []}
-{"url": ["1st Mariner Arena"], "name": ["TLC: Tables, Ladders and Chairs"], "description": []}
-{"url": ["Scottrade Center"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Bradley Center"], "name": ["Elimination Chamber"], "description": []}
-{"url": ["Sun Life Stadium"], "name": ["WrestleMania XXVIII"], "description": []}
-{"url": ["Allstate Arena"], "name": ["Extreme Rules"], "description": []}
-{"url": ["Izod Center"], "name": ["No Way Out"], "description": []}
-{"url": ["US Airways Center"], "name": ["Money in the Bank"], "description": []}
-{"url": ["Staples Center"], "name": ["SummerSlam"], "description": []}
-{"url": ["TD Garden"], "name": ["Night of Champions"], "description": []}
-{"url": ["Bankers Life Fieldhouse"], "name": ["Survivor Series"], "description": []}
-{"url": ["Barclays Center"], "name": ["TLC: Tables, Ladders and Chairs"], "description": []}
-{"url": ["US Airways Center"], "name": ["Royal Rumble"], "description": []}
-{"url": ["New Orleans Arena"], "name": ["Elimination Chamber"], "description": []}
-{"url": ["MetLife Stadium"], "name": ["WrestleMania 29"], "description": []}
-{"url": ["Scottrade Center"], "name": ["Extreme Rules"], "description": []}
-{"url": ["Allstate Arena"], "name": ["Payback"], "description": []}
-{"url": ["Staples Center"], "name": ["SummerSlam"], "description": []}
-{"url": ["Joe Louis Arena"], "name": ["Night of Champions"], "description": []}
-{"url": ["First Niagara Center"], "name": ["Battleground"], "description": []}
-{"url": ["American Airlines Arena"], "name": ["Hell in a Cell"], "description": []}
-{"url": ["TD Garden"], "name": ["Survivor Series"], "description": []}
-{"url": ["Toyota Center"], "name": ["TLC: Tables, Ladders and Chairs"], "description": []}
-{"url": ["Consol Energy Center"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Mercedes-Benz Superdome"], "name": ["WrestleMania XXX"], "description": []}
-{"url": ["Izod Center"], "name": ["Extreme Rules"], "description": []}
-{"url": ["Tampa Bay Times Forum"], "name": ["Battleground"], "description": []}
-{"url": ["Staples Center"], "name": ["SummerSlam"], "description": []}
-{"url": ["Bridgestone Arena"], "name": ["Night of Champions"], "description": []}
-{"url": ["American Airlines Center"], "name": ["Hell in a Cell"], "description": []}
-{"url": ["Quicken Loans Arena"], "name": ["TLC: Tables, Ladders, Chairs and Stairs"], "description": []}
-{"url": ["Wells Fargo Center"], "name": ["Royal Rumble"], "description": []}
-{"url": ["FedExForum"], "name": ["Fastlane"], "description": []}
-{"url": ["Levi's Stadium"], "name": ["WrestleMania 31"], "description": []}
-{"url": ["Allstate Arena"], "name": ["Extreme Rules"], "description": []}
-{"url": ["Royal Farms Arena"], "name": ["Payback"], "description": []}
-{"url": ["American Bank Center"], "name": ["Elimination Chamber"], "description": []}
-{"url": ["Nationwide Arena"], "name": ["Money in the Bank"], "description": []}
-{"url": ["Scottrade Center"], "name": ["Battleground"], "description": []}
-{"url": ["Barclays Center"], "name": ["SummerSlam"], "description": []}
-{"url": ["Toyota Center"], "name": ["Night of Champions"], "description": []}
-{"url": ["Staples Center"], "name": ["Hell in a Cell"], "description": []}
-{"url": ["Phillips Arena"], "name": ["Survivor Series"], "description": []}
-{"url": ["TD Garden"], "name": ["TLC: Tables, Ladders and Chairs"], "description": []}
-{"url": ["Amway Center"], "name": ["Royal Rumble"], "description": []}
-{"url": ["Scottrade Center"], "name": ["Fastlane"], "description": []}
-{"url": ["AT&T Stadium"], "name": ["WrestleMania 32"], "description": []}
-{"url": [], "name": ["Royal Rumble match"], "description": []}
-{"url": [], "name": ["Extreme Rules", "hardcore wrestling"], "description": []}
-{"url": [], "name": ["Elimination Chamber"], "description": []}
-{"url": [], "name": ["Money in the Bank ladder match"], "description": []}
-{"url": [], "name": ["Every championship"], "description": []}
-{"url": [], "name": ["Hell in a Cell match"], "description": []}
-{"url": [], "name": ["elimination-style matches", "traditional Survivor Series elimination tag-team match"], "description": []}
-{"url": [], "name": ["Tables, Ladders, and Chairs match", "chair matches", "ladder matches", "tables matches", "stairs matches"], "description": []}
-{"url": [], "name": ["single-elimination tournament"], "description": []}
-{"url": [], "name": ["The Alliance", "WCW", "ECW"], "description": []}
-{"url": [], "name": ["single-elimination tournament"], "description": []}
-{"url": [], "name": ["ECW"], "description": []}
-{"url": [], "name": [], "description": []}
-{"url": [], "name": ["submission matches", "\"I Quit\" matches"], "description": []}
-{"url": [], "name": ["fatal-four way matches"], "description": []}
-{"url": [], "name": ["Raw", "SmackDown", "brands", "14-man tag team match"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_2']", "venue": ["Nassau Veterans Memorial Coliseum"], "name": ["WrestleMania 2"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Rosemont,_Illinois']", "venue": ["The Dream Team", "Greg Valentine", "Brutus Beefcake", "The British Bulldogs", "Davey Boy Smith", "Dynamite Kid"], "name": ["Rosemont, IL"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Los_Angeles']", "venue": ["King Kong Bundy"], "name": ["Los Angeles, CA"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(1989)']", "venue": ["The Summit"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_V']", "venue": ["Atlantic City Convention Hall"], "name": ["WrestleMania V"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Holds_Barred_(1989_film)#The_match']", "venue": ["Nashville Municipal Auditorium"], "name": ["No Holds Barred:", "\nThe Match/The Movie"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(1990)']", "venue": ["Orlando Arena"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_VI']", "venue": ["SkyDome"], "name": ["WrestleMania VI"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam_(1990)']", "venue": ["Spectrum"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(1991)']", "venue": ["Miami Arena"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/This_Tuesday_in_Texas']", "venue": ["Freeman Coliseum"], "name": ["This Tuesday in Texas"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(1992)']", "venue": ["Knickerbocker Arena"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(1992)']", "venue": ["Richfield Coliseum"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(1993)']", "venue": ["ARCO Arena"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/King_of_the_Ring_(1993)']", "venue": ["Nutter Center"], "name": ["King of the Ring"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(1994)']", "venue": ["Providence Civic Center"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_X']", "venue": ["Madison Square Garden"], "name": ["WrestleMania X"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(1994)']", "venue": ["Freeman Coliseum"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(1995)']", "venue": ["USF Sun Dome"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/In_Your_House_2:_The_Lumberjacks']", "venue": ["Nashville Municipal Auditorium"], "name": ["In Your House 2"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/In_Your_House_4']", "venue": ["Winnipeg Arena"], "name": ["In Your House 4"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(1995)']", "venue": ["USAir Arena"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/In_Your_House_5']", "venue": ["Hersheypark Arena"], "name": ["In Your House 5"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(1996)']", "venue": ["Selland Arena"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/In_Your_House_6']", "venue": ["Louisville Gardens"], "name": ["In Your House 6"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_XII']", "venue": ["Arrowhead Pond"], "name": ["WrestleMania XII"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/In_Your_House_7:_Good_Friends,_Better_Enemies']", "venue": ["Omaha Civic Auditorium"], "name": ["In Your House 7: Good Friends, Better Enemies"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/In_Your_House_8:_Beware_of_Dog']", "venue": ["Florence Civic Center"], "name": ["In Your House 8: Beware of Dog"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/North_Charleston_Coliseum']", "venue": ["North Charleston, SC"], "name": ["North Charleston Coliseum"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/King_of_the_Ring_(1996)']", "venue": ["MECCA Arena"], "name": ["King of the Ring"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam_(1996)']", "venue": ["Gund Arena"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/In_Your_House_11:_Buried_Alive']", "venue": ["Market Square Arena"], "name": ["In Your House 11: Buried Alive"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(1996)']", "venue": ["Madison Square Garden"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/In_Your_House_12:_It%27s_Time']", "venue": ["West Palm Beach Auditorium"], "name": ["In Your House 12: It's Time"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(1997)']", "venue": ["Alamodome"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_13']", "venue": ["Rosemont Horizon"], "name": ["WrestleMania 13"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/In_Your_House_14:_Revenge_of_the_%27Taker']", "venue": ["Blue Cross Arena"], "name": ["In Your House 14: Revenge of the 'Taker"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/In_Your_House_15:_A_Cold_Day_in_Hell']", "venue": ["Richmond Coliseum"], "name": ["In Your House 15: A Cold Day in Hell"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam_(1997)']", "venue": ["Continental Airlines Arena"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Ground_Zero:_In_Your_House']", "venue": ["Louisville Gardens"], "name": ["Ground Zero: In Your House"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WWF_One_Night_Only']", "venue": ["NEC Arena"], "name": ["One Night Only"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Badd_Blood:_In_Your_House']", "venue": ["Kiel Center"], "name": ["Badd Blood: In Your House"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/D-Generation_X:_In_Your_House']", "venue": ["Springfield Civic Center"], "name": ["D-Generation X: In Your House"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(1998)']", "venue": ["San Jose Arena"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_XIV']", "venue": ["FleetCenter"], "name": ["WrestleMania XIV"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Over_the_Edge:_In_Your_House']", "venue": ["Wisconsin Center Arena"], "name": ["Over the Edge: In Your House"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Fully_Loaded:_In_Your_House']", "venue": ["Selland Arena"], "name": ["Fully Loaded: In Your House"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam_(1998)']", "venue": ["Madison Square Garden"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Breakdown:_In_Your_House']", "venue": ["Copps Coliseum"], "name": ["Breakdown: In Your House"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Judgment_Day:_In_Your_House']", "venue": ["Rosemont Horizon"], "name": ["Judgment Day: In Your House"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WWF_Capital_Carnage']", "venue": ["London Arena"], "name": ["Capital Carnage"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Rock_Bottom:_In_Your_House']", "venue": ["General Motors Place"], "name": ["Rock Bottom: In Your House"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(1999)']", "venue": ["Arrowhead Pond"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_XV']", "venue": ["First Union Center"], "name": ["WrestleMania XV"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Backlash:_In_Your_House']", "venue": ["Providence Civic Center"], "name": ["Backlash: In Your House"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Mercy_(UK)']", "venue": ["Manchester Evening News Arena"], "name": ["No Mercy"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Over_the_Edge_(1999)']", "venue": ["Kemper Arena"], "name": ["Over the Edge"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Fully_Loaded_(1999)']", "venue": ["Marine Midland Arena"], "name": ["Fully Loaded"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam_(1999)']", "venue": ["Target Center"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WWE_Rebellion#1999']", "venue": ["National Indoor Arena"], "name": ["Rebellion"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Mercy_(1999)']", "venue": ["Gund Arena"], "name": ["No Mercy"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(1999)']", "venue": ["Joe Louis Arena"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Armageddon_(1999)']", "venue": ["National Car Rental Center"], "name": ["Armageddon"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(2000)']", "venue": ["Madison Square Garden"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Way_Out_(2000)']", "venue": ["Hartford Civic Center"], "name": ["No Way Out"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Backlash_(2000)']", "venue": ["MCI Center"], "name": ["Backlash"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WWE_Insurrextion#2000']", "venue": ["Earls Court"], "name": ["Insurrextion"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Judgment_Day_(2000)']", "venue": ["Freedom Hall"], "name": ["Judgment Day"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Unforgiven_(2000)']", "venue": ["First Union Center"], "name": ["Unforgiven"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Mercy_(2000)']", "venue": ["Pepsi Arena"], "name": ["No Mercy"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(2000)']", "venue": ["Ice Palace"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Armageddon_(2000)']", "venue": ["Birmingham\u2013Jefferson Civic Center"], "name": ["Armageddon"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(2001)']", "venue": ["New Orleans Arena"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Way_Out_(2001)']", "venue": ["Thomas & Mack Center"], "name": ["No Way Out"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_X-Seven']", "venue": ["Reliant Astrodome"], "name": ["WrestleMania X-Seven"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WWE_Insurrextion#2001']", "venue": ["Earls Court"], "name": ["Insurrextion"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Judgment_Day_(2001)']", "venue": ["ARCO Arena"], "name": ["Judgment Day"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam_(2001)']", "venue": ["Compaq Center"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Unforgiven_(2001)']", "venue": ["Mellon Arena"], "name": ["Unforgiven"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WWE_Rebellion#2001']", "venue": ["Manchester Arena"], "name": ["Rebellion"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(2001)']", "venue": ["Greensboro Coliseum"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Vengeance_(2001)']", "venue": ["San Diego Sports Arena"], "name": ["Vengeance"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(2002)']", "venue": ["Philips Arena"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Way_Out_(2002)']", "venue": ["Bradley Center"], "name": ["No Way Out"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_X8']", "venue": ["SkyDome"], "name": ["WrestleMania X8"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Backlash_(2002)']", "venue": ["Kemper Arena"], "name": ["Backlash"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WWE_Insurrextion#2002']", "venue": ["Wembley Arena"], "name": ["Insurrextion"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Judgment_Day_(2002)']", "venue": ["Gaylord Entertainment Center"], "name": ["Judgment Day"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/King_of_the_Ring_(2002)']", "venue": ["Nationwide Arena"], "name": ["King of the Ring"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Vengeance_(2002)']", "venue": ["Joe Louis Arena"], "name": ["Vengeance"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Unforgiven_(2002)']", "venue": ["Staples Center"], "name": ["Unforgiven"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Mercy_(2002)']", "venue": ["Alltel Arena"], "name": ["No Mercy"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(2002)']", "venue": ["Madison Square Garden"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Armageddon_(2002)']", "venue": ["Office Depot Center"], "name": ["Armageddon"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(2003)']", "venue": ["Fleet Center"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Way_Out_(2003)']", "venue": ["Bell Centre"], "name": ["No Way Out"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_XIX']", "venue": ["Safeco Field"], "name": ["WrestleMania XIX"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Judgment_Day_(2003)']", "venue": ["Charlotte Coliseum"], "name": ["Judgment Day"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Bad_Blood_(2003)']", "venue": ["Compaq Center"], "name": ["Bad Blood"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Vengeance_(2003)']", "venue": ["Pepsi Center"], "name": ["Vengeance"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Unforgiven_(2003)']", "venue": ["Giant Center"], "name": ["Unforgiven"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Mercy_(2003)']", "venue": ["1st Mariner Arena"], "name": ["No Mercy"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(2003)']", "venue": ["American Airlines Center"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Armageddon_(2003)']", "venue": ["TD Waterhouse Center"], "name": ["Armageddon"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(2004)']", "venue": ["Wachovia Center"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_XX']", "venue": ["Madison Square Garden"], "name": ["WrestleMania XX"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Backlash_(2004)']", "venue": ["Rexall Place"], "name": ["Backlash"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Bad_Blood_(2004)']", "venue": ["Nationwide Arena"], "name": ["Bad Blood"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/The_Great_American_Bash_(2004)']", "venue": ["Norfolk Scope"], "name": ["The Great American Bash"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Vengeance_(2004)']", "venue": ["Hartford Civic Center"], "name": ["Vengeance"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam_(2004)']", "venue": ["Air Canada Centre"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Unforgiven_(2004)']", "venue": ["Rose Garden"], "name": ["Unforgiven"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Mercy_(2004)']", "venue": ["Continental Airlines Arena"], "name": ["No Mercy"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Taboo_Tuesday_(2004)']", "venue": ["Bradley Center"], "name": ["Taboo Tuesday"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Armageddon_(2004)']", "venue": ["Gwinnett Arena"], "name": ["Armageddon"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/New_Year%27s_Revolution_(2005)']", "venue": ["Coliseo de Puerto Rico"], "name": ["New Year's Revolution"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(2005)']", "venue": ["Save Mart Center"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Way_Out_(2005)']", "venue": ["Mellon Arena"], "name": ["No Way Out"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_21']", "venue": ["Staples Center"], "name": ["WrestleMania 21"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Backlash_(2005)']", "venue": ["Verizon Wireless Arena"], "name": ["Backlash"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Vengeance_(2005)']", "venue": ["Thomas & Mack Center"], "name": ["Vengeance"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/The_Great_American_Bash_(2005)']", "venue": ["HSBC Arena"], "name": ["The Great American Bash"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam_(2005)']", "venue": ["MCI Center"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Unforgiven_(2005)']", "venue": ["Ford Center"], "name": ["Unforgiven"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Mercy_(2005)']", "venue": ["Toyota Center"], "name": ["No Mercy"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Taboo_Tuesday_(2005)']", "venue": ["iPayOne Center"], "name": ["Taboo Tuesday"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Armageddon_(2005)']", "venue": ["Dunkin' Donuts Center"], "name": ["Armageddon"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/New_Year%27s_Revolution_(2006)']", "venue": ["Pepsi Arena"], "name": ["New Year's Revolution"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Way_Out_(2006)']", "venue": ["1st Mariner Arena"], "name": ["No Way Out"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_22']", "venue": ["Allstate Arena"], "name": ["WrestleMania 22"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Backlash_(2006)']", "venue": ["Rupp Arena"], "name": ["Backlash"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Judgment_Day_(2006)']", "venue": ["US Airways Center"], "name": ["Judgment Day"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/ECW_One_Night_Stand_(2006)']", "venue": ["Hammerstein Ballroom"], "name": ["One Night Stand"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/The_Great_American_Bash_(2006)']", "venue": ["Conseco Fieldhouse"], "name": ["The Great American Bash"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam_(2006)']", "venue": ["TD Banknorth Garden"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Unforgiven_(2006)']", "venue": ["Air Canada Centre"], "name": ["Unforgiven"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Cyber_Sunday_(2006)']", "venue": ["U.S. Bank Arena"], "name": ["Cyber Sunday"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(2006)']", "venue": ["Wachovia Center"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Armageddon_(2006)']", "venue": ["Richmond Coliseum"], "name": ["Armageddon"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(2007)']", "venue": ["AT&T Center"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Way_Out_(2007)']", "venue": ["Staples Center"], "name": ["No Way Out"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_23']", "venue": ["Ford Field"], "name": ["WrestleMania 23"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Backlash_(2007)']", "venue": ["Philips Arena"], "name": ["Backlash"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/One_Night_Stand_(2007)']", "venue": ["Jacksonville Veterans Memorial Arena"], "name": ["One Night Stand"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Vengeance:_Night_of_Champions']", "venue": ["Toyota Center"], "name": ["Vengeance: Night of Champions"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/The_Great_American_Bash_(2007)']", "venue": ["HP Pavilion"], "name": ["The Great American Bash"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam_(2007)']", "venue": ["Continental Airlines Arena"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Unforgiven_(2007)']", "venue": ["FedExForum"], "name": ["Unforgiven"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Mercy_(2007)']", "venue": ["Allstate Arena"], "name": ["No Mercy"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Cyber_Sunday_(2007)']", "venue": ["Verizon Center"], "name": ["Cyber Sunday"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(2007)']", "venue": ["American Airlines Arena"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Armageddon_(2007)']", "venue": ["Mellon Arena"], "name": ["Armageddon"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(2008)']", "venue": ["Madison Square Garden"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_XXIV']", "venue": ["Florida Citrus Bowl Stadium"], "name": ["WrestleMania XXIV"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Backlash_(2008)']", "venue": ["1st Mariner Arena"], "name": ["Backlash"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Judgment_Day_(2008)']", "venue": ["Qwest Center Omaha"], "name": ["Judgment Day"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/One_Night_Stand_(2008)']", "venue": ["San Diego Sports Arena"], "name": ["One Night Stand"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Night_of_Champions_(2008)']", "venue": ["American Airlines Center"], "name": ["Night of Champions"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/The_Great_American_Bash_(2008)']", "venue": ["Nassau Veterans Memorial Coliseum"], "name": ["The Great American Bash"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam_(2008)']", "venue": ["Conseco Fieldhouse"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Unforgiven_(2008)']", "venue": ["Quicken Loans Arena"], "name": ["Unforgiven"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Mercy_(2008)']", "venue": ["Rose Garden"], "name": ["No Mercy"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Cyber_Sunday_(2008)']", "venue": ["US Airways Center"], "name": ["Cyber Sunday"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(2008)']", "venue": ["TD Banknorth Garden"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Armageddon_(2008)']", "venue": ["HSBC Arena"], "name": ["Armageddon"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(2009)']", "venue": ["Joe Louis Arena"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_XXV']", "venue": ["Reliant Stadium"], "name": ["WrestleMania XXV"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Backlash_(2009)']", "venue": ["Dunkin' Donuts Center"], "name": ["Backlash"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Judgment_Day_(2009)']", "venue": ["Allstate Arena"], "name": ["Judgment Day"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Extreme_Rules_(2009)']", "venue": ["New Orleans Arena"], "name": ["Extreme Rules"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WWE_The_Bash']", "venue": ["ARCO Arena"], "name": ["The Bash"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Night_of_Champions_(2009)']", "venue": ["Wachovia Center"], "name": ["Night of Champions"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam_(2009)']", "venue": ["Staples Center"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WWE_Breaking_Point']", "venue": ["Bell Centre"], "name": ["Breaking Point"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Bragging_Rights_(2009)']", "venue": ["Mellon Arena"], "name": ["Bragging Rights"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(2009)']", "venue": ["Verizon Center"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(2010)']", "venue": ["Philips Arena"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_XXVI']", "venue": ["University of Phoenix Stadium"], "name": ["WrestleMania XXVI"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Extreme_Rules_(2010)']", "venue": ["1st Mariner Arena"], "name": ["Extreme Rules"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Over_the_Limit_(2010)']", "venue": ["Joe Louis Arena"], "name": ["Over the Limit"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Money_in_the_Bank_(2010)']", "venue": ["Sprint Center"], "name": ["Money in the Bank"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Night_of_Champions_(2010)']", "venue": ["Allstate Arena"], "name": ["Night of Champions"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Hell_in_a_Cell_(2010)']", "venue": ["American Airlines Center"], "name": ["Hell in a Cell"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Bragging_Rights_(2010)']", "venue": ["Target Center"], "name": ["Bragging Rights"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(2010)']", "venue": ["American Airlines Arena"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/TLC:_Tables,_Ladders_and_Chairs_(2010)']", "venue": ["Toyota Center"], "name": ["TLC: Tables, Ladders and Chairs"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(2011)']", "venue": ["TD Garden"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Elimination_Chamber_(2011)']", "venue": ["Oracle Arena"], "name": ["Elimination Chamber"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Extreme_Rules_(2011)']", "venue": ["St. Pete Times Forum"], "name": ["Extreme Rules"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Over_the_Limit_(2011)']", "venue": ["KeyArena"], "name": ["Over the Limit"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WWE_Capitol_Punishment']", "venue": ["Verizon Center"], "name": ["Capitol Punishment"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Money_in_the_Bank_(2011)']", "venue": ["Allstate Arena"], "name": ["Money in the Bank"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Night_of_Champions_(2011)']", "venue": ["First Niagara Center"], "name": ["Night of Champions"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Hell_in_a_Cell_(2011)']", "venue": ["New Orleans Arena"], "name": ["Hell in a Cell"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Vengeance_(2011)']", "venue": ["AT&T Center"], "name": ["Vengeance"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(2011)']", "venue": ["Madison Square Garden"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/TLC:_Tables,_Ladders_and_Chairs_(2011)']", "venue": ["1st Mariner Arena"], "name": ["TLC: Tables, Ladders and Chairs"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(2012)']", "venue": ["Scottrade Center"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Elimination_Chamber_(2012)']", "venue": ["Bradley Center"], "name": ["Elimination Chamber"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_XXVIII']", "venue": ["Sun Life Stadium"], "name": ["WrestleMania XXVIII"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Extreme_Rules_(2012)']", "venue": ["Allstate Arena"], "name": ["Extreme Rules"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/No_Way_Out_(2012)']", "venue": ["Izod Center"], "name": ["No Way Out"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Money_in_the_Bank_(2012)']", "venue": ["US Airways Center"], "name": ["Money in the Bank"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam_(2012)']", "venue": ["Staples Center"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Night_of_Champions_(2012)']", "venue": ["TD Garden"], "name": ["Night of Champions"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(2012)']", "venue": ["Bankers Life Fieldhouse"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(2013)']", "venue": ["US Airways Center"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Elimination_Chamber_(2013)']", "venue": ["New Orleans Arena"], "name": ["Elimination Chamber"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_29']", "venue": ["MetLife Stadium"], "name": ["WrestleMania 29"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Extreme_Rules_(2013)']", "venue": ["Scottrade Center"], "name": ["Extreme Rules"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Payback_(2013)']", "venue": ["Allstate Arena"], "name": ["Payback"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam_(2013)']", "venue": ["Staples Center"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Night_of_Champions_(2013)']", "venue": ["Joe Louis Arena"], "name": ["Night of Champions"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Battleground_(2013)']", "venue": ["First Niagara Center"], "name": ["Battleground"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Hell_in_a_Cell_(2013)']", "venue": ["American Airlines Arena"], "name": ["Hell in a Cell"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(2013)']", "venue": ["TD Garden"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/TLC:_Tables,_Ladders_and_Chairs_(2013)']", "venue": ["Toyota Center"], "name": ["TLC: Tables, Ladders and Chairs"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(2014)']", "venue": ["Consol Energy Center"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_XXX']", "venue": ["Mercedes-Benz Superdome"], "name": ["WrestleMania XXX"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Extreme_Rules_(2014)']", "venue": ["Izod Center"], "name": ["Extreme Rules"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Battleground_(2014)']", "venue": ["Tampa Bay Times Forum"], "name": ["Battleground"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam_(2014)']", "venue": ["Staples Center"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Night_of_Champions_(2014)']", "venue": ["Bridgestone Arena"], "name": ["Night of Champions"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Hell_in_a_Cell_(2014)']", "venue": ["American Airlines Center"], "name": ["Hell in a Cell"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/TLC:_Tables,_Ladders_and_Chairs_(2014)']", "venue": ["Quicken Loans Arena"], "name": ["TLC: Tables, Ladders, Chairs... and Stairs"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(2015)']", "venue": ["Wells Fargo Center"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Fastlane_(2015)']", "venue": ["FedExForum"], "name": ["Fastlane"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_31']", "venue": ["Levi's Stadium"], "name": ["WrestleMania 31"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Extreme_Rules_(2015)']", "venue": ["Allstate Arena"], "name": ["Extreme Rules"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Payback_(2015)']", "venue": ["Royal Farms Arena"], "name": ["Payback"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Elimination_Chamber_(2015)']", "venue": ["American Bank Center"], "name": ["Elimination Chamber"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Money_in_the_Bank_(2015)']", "venue": ["Nationwide Arena"], "name": ["Money in the Bank"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Battleground_(2015)']", "venue": ["Scottrade Center"], "name": ["Battleground"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam_(2015)']", "venue": ["Barclays Center"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Hell_in_a_Cell_(2015)']", "venue": ["Staples Center"], "name": ["Hell in a Cell"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Survivor_Series_(2015)']", "venue": ["Philips Arena"], "name": ["Survivor Series"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/TLC:_Tables,_Ladders_and_Chairs_(2015)']", "venue": ["TD Garden"], "name": ["TLC: Tables, Ladders and Chairs"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble_(2016)']", "venue": ["Amway Center"], "name": ["Royal Rumble"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Fastlane_(2016)']", "venue": ["Quicken Loans Arena"], "name": ["Fastlane"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WrestleMania_32']", "venue": ["AT&T Stadium"], "name": ["WrestleMania 32"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Payback_(2016)']", "venue": ["Prudential Center"], "name": ["Payback"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam']", "venue": ["Barclays Center"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/SummerSlam']", "venue": ["Barclays Center"], "name": ["SummerSlam"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Royal_Rumble#Match']", "venue": [], "name": ["Royal Rumble match"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Professional_wrestling_match_types#Hardcore-based_variations', u'/wiki/Hardcore_wrestling']", "venue": [], "name": ["Extreme Rules", "hardcore wrestling"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Elimination_Chamber']", "venue": [], "name": ["Elimination Chamber"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Money_in_the_Bank_ladder_match']", "venue": [], "name": ["Money in the Bank ladder match"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/List_of_WWE_championships']", "venue": [], "name": ["Every championship"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Hell_in_a_Cell_match']", "venue": [], "name": ["Hell in a Cell match"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Professional_wrestling_match_types#Basic_elimination_matches', u'/wiki/Survivor_Series#Survivor_Series_matches']", "venue": [], "name": ["elimination-style matches", "traditional Survivor Series elimination tag-team match"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Tables,_Ladders,_and_Chairs_match', u'/wiki/Ladder_match']", "venue": [], "name": ["Tables, Ladders, and Chairs match", "ladder matches"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Single-elimination_tournament']", "venue": [], "name": ["single-elimination tournament"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/The_Alliance_(professional_wrestling)', u'/wiki/WCW', u'/wiki/Extreme_Championship_Wrestling']", "venue": [], "name": ["The Alliance", "WCW", "ECW"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Single-elimination_tournament']", "venue": [], "name": ["single-elimination tournament"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Extreme_Championship_Wrestling']", "venue": [], "name": ["ECW"], "description": []}
+{"url": "https://en.wikipedia.org[]", "venue": [], "name": [], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Professional_wrestling_match_types#Variations_of_singles_matches', u'/wiki/%22I_Quit%22_match']", "venue": [], "name": ["submission matches", "\"I Quit\" matches"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/Professional_wrestling_match_types#Basic_non-elimination_matches']", "venue": [], "name": ["fatal-four way matches"], "description": []}
+{"url": "https://en.wikipedia.org[u'/wiki/WWE_Raw', u'/wiki/WWE_SmackDown', u'/wiki/WWE_Brand_Extension', u'/wiki/Professional_wrestling_tag_team_match_types#Multiple_man_teamed_matches']", "venue": [], "name": ["brands", "14-man tag team match"], "description": []}
